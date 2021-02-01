@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8da969d8-9e5c-400e-ac62-b0668836d48b" name="Default Changelist" comment="" />
+    <list default="true" id="8da969d8-9e5c-400e-ac62-b0668836d48b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/testName1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="210">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -67,17 +69,6 @@
             <path>
               <item name="gitTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="gitTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gitTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gitTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="testName1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,12 +128,20 @@
       <option name="presentableId" value="Default" />
       <updated>1612174650534</updated>
       <workItem from="1612174656589" duration="1624000" />
-      <workItem from="1612176332534" duration="1996000" />
+      <workItem from="1612176332534" duration="2881000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次测试通过IDEA提交项目到Git库">
+      <created>1612185366687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612185366687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3620000" />
+    <option name="totallyTimeSpent" value="4505000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -156,6 +155,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" sideWeight="0.5021834" side_tool="true" weight="0.25" />
@@ -191,11 +191,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次测试通过IDEA提交项目到Git库" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次测试通过IDEA提交项目到Git库" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/testName1/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="210">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
